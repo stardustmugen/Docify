@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📄 Upload and interact with any PDF document
-- 🔍 Fast semantic search using vector similarity
-- 💬 Ask questions in plain English and get contextual answers
-- 🔒 Fully local — your data never leaves your machine
-- ⚡ Lightweight, runs even on modest hardware
+- Upload and interact with any PDF document
+- Fast semantic search using vector similarity
+- Ask questions in plain English and get contextual answers
+- Fully local — your data never leaves your machine
+- Lightweight, runs even on modest hardware
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Upload PDF**: Text is extracted using PyPDFLoader  
 2. **Preprocessing**: Content is cleaned and chunked  
@@ -37,7 +37,7 @@
 
 ---
 
-## 💻 Installation
+## Installation
 git clone https://github.com/yourusername/docify.git
 cd docify
 
